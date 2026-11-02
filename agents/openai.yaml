@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tránh vạ miệng"
+  short_description: "Rà chữ và ảnh, giảm rủi ro pháp lý với ít sửa nhất"
+  default_prompt: "Dùng $tranh-va-mieng rà bài và ảnh tôi gửi, trả toàn văn sửa ít nhất để giảm rủi ro pháp lý, giữ ý và giọng."
